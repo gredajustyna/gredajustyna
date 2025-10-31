@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justyna</h1>
 <h3 align="center">A young software developer passionate about mobile and web technologies</h3>
 
-- 🔭 I’m currently working on **A mobile app that makes use of AI to do something great!**
+- 🔭 I’m currently working on **Kotlin Multiplatform packages**
 
 - 🌱 I’m currently learning **React Native and improving designing in Figma**
 
