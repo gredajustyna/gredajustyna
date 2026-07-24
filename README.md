@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justyna</h1>
 <h3 align="center">A young software developer passionate about mobile and web technologies</h3>
 
-- 🔭 I’m currently working on **Kotlin Multiplatform packages**
+- 🔭 I’m currently working on **A React Native MacOS app**
 
 - 🌱 I’m currently learning **React Native and improving designing in Figma**
 
@@ -9,7 +9,7 @@
 
 - 📝 I have written some articles about mobile accessibility and bridging Flutter with Rust on [https://blog.argonauths.eu/](https://blog.argonauths.eu/)
 
-- ⚡ Fun fact **Not only programming languages are my passion - i can speak some French, Spanish, read Cyrillic and Greek alphabets 😛**
+- ⚡ Fun fact **Not only programming languages are my passion - i can speak some French, Spanish, read Cyrillic and Greek alphabets 😛 Next step - Japanese!**
 
 
 <h3 align="left">Languages and Tools:</h3>
